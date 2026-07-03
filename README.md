@@ -45,7 +45,7 @@ It allows you to manually register every game you own, regardless of the platfor
 
 Unlike other services, Game Vault operates entirely locally, keeping all data under the user's control without requiring accounts, subscriptions, or cloud synchronization.
 
-⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
+---
 
 <table align="center">
 
@@ -61,7 +61,7 @@ Unlike other services, Game Vault operates entirely locally, keeping all data un
 
 </table>
 
-⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
+---
 
 <table align="center">
 
@@ -85,7 +85,7 @@ Manage games from different platforms within a single application:
 * PlayStation Network (PSN)
 * Nintendo
 
-⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
+---
 
 <table align="center">
 
@@ -109,7 +109,7 @@ Record for each game:
 
 This allows you to know how much you've actually invested in your collection and its total value.
 
-⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
+---
 
 <table align="center">
 
@@ -134,7 +134,7 @@ Quickly identify:
 * Recommended titles
 * Games that still need improvement or completion
 
-⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
+---
 
 <table align="center">
 
@@ -160,7 +160,8 @@ You can save:
 * Personal notes
 * Future recommendations
 
-⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
+
+---
 
 <table align="center">
 
@@ -180,7 +181,8 @@ Bring your entire video game collection together in a single library, regardless
 
 Keep your collection organized and accessible from one application.
 
-⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
+
+---
 
 <table align="center">
 
@@ -206,7 +208,8 @@ Your data:
 * Does not require a permanent Internet connection.
 * Does not require a user account.
 
-⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
+
+---
 
 <table align="center">
 
@@ -228,7 +231,8 @@ Your collection data, ratings, reviews, and pricing information remain stored di
 
 Game Vault does not use cloud storage or external services.
 
-⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
+
+---
 
 <table align="center">
 
@@ -257,7 +261,8 @@ Each entry may include:
 
 This system provides complete control over the organization and customization of your collection.
 
-⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
+
+---
 
 <table align="center">
 
@@ -285,7 +290,8 @@ Game Vault aims to solve this problem by allowing you to:
 
 All from a lightweight and private application.
 
-⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
+
+---
 
 <table align="center">
 
@@ -317,7 +323,8 @@ Database
 
 * SQLite
 
-⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
+
+---
 
 <table align="center">
 
@@ -333,9 +340,14 @@ Database
 
 </table>
 
-(Keep your images unchanged)
+<img width="799" height="597" alt="Captura de pantalla 2026-07-03 a las 17 15 16" src="https://github.com/user-attachments/assets/bc281644-38c0-4bb5-99ee-bc0137a5f114" />
+<img width="970" height="837" alt="Captura de pantalla 2026-07-03 a las 17 15 36" src="https://github.com/user-attachments/assets/8d7df821-5e65-414d-84ff-e8249fc6525c" />
+<img width="967" height="833" alt="Captura de pantalla 2026-07-03 a las 17 16 13" src="https://github.com/user-attachments/assets/9e500322-5b55-4a60-8bf8-278033339220" />
+<img width="965" height="836" alt="Captura de pantalla 2026-07-03 a las 17 16 04" src="https://github.com/user-attachments/assets/2a71e34a-8104-421c-8e2e-931a9907c45c" />
+<img width="970" height="840" alt="Captura de pantalla 2026-07-03 a las 17 16 27" src="https://github.com/user-attachments/assets/5d8488ef-4523-40fb-9137-a4a7b7d13e0f" />
 
-⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
+
+---
 
 <table align="center">
 
@@ -364,7 +376,7 @@ Planned features for future versions:
 * Visual and performance improvements.
 * Support for additional platforms.
 
-⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
+---
 
 <table align="center">
 
@@ -384,7 +396,7 @@ Game Vault is currently under active development.
 
 Features and design may evolve as the project continues to grow.
 
-⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
+---
 
 <table align="center">
 
@@ -404,7 +416,7 @@ Suggestions, ideas, and feedback are always welcome.
 
 Any proposal that helps improve the collection management experience will be considered for future releases.
 
-⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
+---
 
 <table align="center">
 
@@ -422,7 +434,7 @@ Any proposal that helps improve the collection management experience will be con
 
 Free-to-use license. Sale, redistribution, or modification is prohibited without explicit written permission.
 
-⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
+---
 
 <table align="center">
 
