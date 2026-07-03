@@ -48,7 +48,6 @@ Para solicitudes de autorización o consultas relacionadas con esta licencia, co
 ---
 
 **Game Vault © 2026 EveeX_. Todos los derechos reservados.**
-<<<<<<< HEAD
 
 ---
 
