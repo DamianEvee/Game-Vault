@@ -47,8 +47,7 @@ Permite registrar manualmente todos los juegos que posees, independientemente de
 
 A diferencia de otros servicios, Game Vault funciona completamente en local, manteniendo todos los datos bajo el control del usuario y sin necesidad de cuentas, suscripciones o sincronización en la nube.
 
-⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
-
+---
 
 <table align="center">
 
@@ -64,7 +63,7 @@ A diferencia de otros servicios, Game Vault funciona completamente en local, man
 
 </table>
 
-⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
+---
 
 
 <table align="center">
@@ -89,8 +88,7 @@ Gestiona juegos de diferentes plataformas desde una única aplicación:
 * PlayStation Network (PSN)
 * Nintendo
 
-⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
-
+---
 
 <table align="center">
 
@@ -114,8 +112,7 @@ Registra para cada juego:
 
 Esto permite conocer cuánto has invertido realmente en tu colección y cuál es su valor total.
 
-⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
-
+---
 
 <table align="center">
 
@@ -139,7 +136,7 @@ Identifica rápidamente:
 * Títulos recomendados
 * Juegos pendientes de mejorar o finalizar
 
-⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
+---
 
 
 <table align="center">
@@ -166,8 +163,7 @@ Puedes guardar:
 * Comentarios personales
 * Recomendaciones futuras
 
-⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
-
+---
 
 <table align="center">
 
@@ -187,7 +183,7 @@ Reúne toda tu colección de videojuegos en una única biblioteca, independiente
 
 Mantén tu colección organizada y accesible desde una sola aplicación.
 
-⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
+---
 
 
 <table align="center">
@@ -214,7 +210,7 @@ Tus datos:
 * No requieren conexión permanente a Internet.
 * No necesitan una cuenta de usuario.
 
-⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
+---
 
 
 <table align="center">
@@ -236,7 +232,7 @@ Los datos de tu colección, valoraciones, reseñas y precios permanecen guardado
 
 Game Vault no utiliza almacenamiento en la nube ni servicios externos para funcionar.
 
-⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
+---
 
 
 <table align="center">
@@ -265,7 +261,7 @@ Cada registro puede incluir:
 
 Este sistema ofrece un control total sobre la organización y personalización de la colección.
 
-⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
+---
 
 <table align="center">
 
@@ -293,7 +289,7 @@ Game Vault busca solucionar este problema permitiendo:
 
 Todo ello desde una única aplicación ligera y privada.
 
-⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
+---
 
 
 <table align="center">
@@ -326,7 +322,7 @@ Base de Datos
 
 * SQLite
 
-⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
+---
 
 
 <table align="center">
@@ -347,12 +343,11 @@ Base de Datos
 <img width="970" height="837" alt="Captura de pantalla 2026-07-03 a las 17 15 36" src="https://github.com/user-attachments/assets/8d7df821-5e65-414d-84ff-e8249fc6525c" />
 <img width="967" height="833" alt="Captura de pantalla 2026-07-03 a las 17 16 13" src="https://github.com/user-attachments/assets/9e500322-5b55-4a60-8bf8-278033339220" />
 <img width="965" height="836" alt="Captura de pantalla 2026-07-03 a las 17 16 04" src="https://github.com/user-attachments/assets/2a71e34a-8104-421c-8e2e-931a9907c45c" />
-
 <img width="970" height="840" alt="Captura de pantalla 2026-07-03 a las 17 16 27" src="https://github.com/user-attachments/assets/5d8488ef-4523-40fb-9137-a4a7b7d13e0f" />
 
 
 
-⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
+---
 
 
 <table align="center">
@@ -382,7 +377,7 @@ Funcionalidades previstas para futuras versiones:
 * Mejoras visuales y de rendimiento.
 * Compatibilidad con nuevas plataformas.
 
-⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
+---
 
 
 <table align="center">
@@ -403,7 +398,7 @@ Game Vault se encuentra actualmente en desarrollo activo.
 
 Las características y el diseño pueden evolucionar a medida que el proyecto continúe creciendo.
 
-⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
+---
 
 
 <table align="center">
@@ -424,7 +419,7 @@ Las sugerencias, ideas y comentarios son siempre bienvenidos.
 
 Toda propuesta que ayude a mejorar la experiencia de gestión de colecciones será considerada para futuras versiones.
 
-⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
+---
 
 
 <table align="center">
@@ -443,7 +438,7 @@ Toda propuesta que ayude a mejorar la experiencia de gestión de colecciones ser
 
 La licencia de uso gratuita, prohibida venta, distribucion o modificacion sin consentimiento explicito por escrito.
 
-⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
+---
 
 
 <table align="center">
