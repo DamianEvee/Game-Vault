@@ -1,6 +1,6 @@
 # Licencia de Uso de Game Vault
 
-Copyright (c) 2026 Damian
+Copyright (c) 2026 EveeX_
 
 Todos los derechos reservados.
 
@@ -23,7 +23,7 @@ Queda expresamente prohibido, sin autorización previa, expresa y por escrito de
 
 ## Propiedad Intelectual
 
-Todo el código fuente, diseño, estructura, documentación, recursos gráficos y cualquier otro componente relacionado con Game Vault son propiedad exclusiva de Damian y están protegidos por las leyes nacionales e internacionales de propiedad intelectual y derechos de autor.
+Todo el código fuente, diseño, estructura, documentación, recursos gráficos y cualquier otro componente relacionado con Game Vault son propiedad exclusiva de EveeX_ y están protegidos por las leyes nacionales e internacionales de propiedad intelectual y derechos de autor.
 
 La presente licencia no concede ningún derecho de propiedad sobre el software.
 
@@ -47,4 +47,57 @@ Para solicitudes de autorización o consultas relacionadas con esta licencia, co
 
 ---
 
-**Game Vault © 2026 Damian. Todos los derechos reservados.**
+**Game Vault © 2026 EveeX_. Todos los derechos reservados.**
+
+---
+
+# Game Vault Usage License
+
+Copyright (c) 2026 EveeX_
+
+All rights reserved.
+
+## Permissions
+
+Permission is granted to download, use, and run the Game Vault software free of charge for personal and non-commercial purposes, subject to the terms and conditions of this license.
+
+## Restrictions
+
+Without prior, explicit, and written authorization from the copyright holder, the following actions are strictly prohibited:
+
+- Selling the software or any part of it.
+- Distributing copies of the software by any means.
+- Modifying, altering, adapting, or creating derivative works based on the software.
+- Removing or modifying copyright, authorship, or license notices.
+- Repackaging the software for redistribution.
+- Publishing the source code, in whole or in part, on repositories, websites, or third-party platforms.
+- Using the software or its source code for commercial purposes.
+- Incorporating the software or any part of it into other projects without written authorization.
+
+## Intellectual Property
+
+All source code, design, structure, documentation, graphical assets, and any other components related to Game Vault are the exclusive property of EveeX_ and are protected by national and international intellectual property and copyright laws.
+
+This license does not grant any ownership rights to the software.
+
+## Authorization Requests
+
+Any exception to the restrictions established in this license requires prior, explicit, and written consent from the copyright holder.
+
+## Disclaimer of Warranty
+
+The software is provided "AS IS", without warranty of any kind, express or implied.
+
+The author shall not be held liable for any damages, data loss, service interruptions, or any other harm arising from the use of, or inability to use, the software.
+
+## Termination
+
+Failure to comply with any of the terms of this license will result in the immediate and automatic termination of the rights granted herein.
+
+## Contact
+
+For authorization requests or questions regarding this license, please contact the copyright holder.
+
+---
+
+**Game Vault © 2026 EveeX_. All rights reserved.**
