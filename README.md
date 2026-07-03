@@ -1,6 +1,7 @@
-Game Vault
+
 
 <div align="center">
+GAME VAULT
 
 Tu biblioteca personal de videojuegos
 
