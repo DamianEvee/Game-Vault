@@ -1,5 +1,3 @@
-
-
 <div align="center">
 <table align="center">
 
@@ -7,7 +5,7 @@
 
 <td align="center">
 
-#  GAME VAULT
+# GAME VAULT
 
 </td>
 
@@ -15,13 +13,13 @@
 
 </table>
 
-Tu biblioteca personal de videojuegos
+Your Personal Video Game Library
 
-Organiza toda tu colección de juegos en un único lugar, de forma privada, local y sin depender de servicios externos.
+Organize your entire game collection in one place, privately, locally, and without relying on external services.
 
-Desarrollado con React, TypeScript, Rust, Tauri y SQLite.
+Built with React, TypeScript, Rust, Tauri, and SQLite.
 
-Creado por EveeX_
+Created by EveeX_
 
 </div>
 
@@ -31,7 +29,7 @@ Creado por EveeX_
 
 <td align="center">
 
-#  Descripción
+# Description
 
 </td>
 
@@ -41,14 +39,13 @@ Creado por EveeX_
 
 <br>
 
-Game Vault es una aplicación de escritorio diseñada para gestionar y organizar tu colección personal de videojuegos.
+Game Vault is a desktop application designed to manage and organize your personal video game collection.
 
-Permite registrar manualmente todos los juegos que posees, independientemente de la plataforma en la que los hayas adquirido, almacenando información detallada como precios, valoraciones y opiniones personales.
+It allows you to manually register every game you own, regardless of the platform where it was purchased, storing detailed information such as prices, ratings, and personal reviews.
 
-A diferencia de otros servicios, Game Vault funciona completamente en local, manteniendo todos los datos bajo el control del usuario y sin necesidad de cuentas, suscripciones o sincronización en la nube.
+Unlike other services, Game Vault operates entirely locally, keeping all data under the user's control without requiring accounts, subscriptions, or cloud synchronization.
 
 ⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
-
 
 <table align="center">
 
@@ -56,7 +53,7 @@ A diferencia de otros servicios, Game Vault funciona completamente en local, man
 
 <td align="center">
 
-# Características
+# Features
 
 </td>
 
@@ -66,14 +63,13 @@ A diferencia de otros servicios, Game Vault funciona completamente en local, man
 
 ⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
-
 <table align="center">
 
 <tr>
 
 <td align="center">
 
-# Biblioteca Multiplataforma
+# Multi-Platform Library
 
 </td>
 
@@ -81,7 +77,7 @@ A diferencia de otros servicios, Game Vault funciona completamente en local, man
 
 </table>
 
-Gestiona juegos de diferentes plataformas desde una única aplicación:
+Manage games from different platforms within a single application:
 
 * Steam
 * Epic Games
@@ -91,14 +87,13 @@ Gestiona juegos de diferentes plataformas desde una única aplicación:
 
 ⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
-
 <table align="center">
 
 <tr>
 
 <td align="center">
 
-# Control de Gastos
+# Expense Tracking
 
 </td>
 
@@ -106,164 +101,13 @@ Gestiona juegos de diferentes plataformas desde una única aplicación:
 
 </table>
 
-Registra para cada juego:
+Record for each game:
 
-* Precio oficial de venta
-* Precio realmente pagado
-* Ahorro obtenido respecto al precio original
+* Official retail price
+* Actual purchase price
+* Savings compared to the original price
 
-Esto permite conocer cuánto has invertido realmente en tu colección y cuál es su valor total.
-
-⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
-
-
-<table align="center">
-
-<tr>
-
-<td align="center">
-
-# Sistema de Valoraciones
-
-</td>
-
-</tr>
-
-</table>
-Valora cada juego mediante un sistema de estrellas.
-
-Identifica rápidamente:
-
-* Juegos favoritos
-* Mejores experiencias
-* Títulos recomendados
-* Juegos pendientes de mejorar o finalizar
-
-⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
-
-
-<table align="center">
-
-<tr>
-
-<td align="center">
-
-# Opiniones y Reseñas
-
-</td>
-
-</tr>
-
-</table>
-
-Añade tus propias opiniones sobre cada juego.
-
-Puedes guardar:
-
-* Impresiones generales
-* Opiniones sobre la jugabilidad
-* Valoración de la historia
-* Comentarios personales
-* Recomendaciones futuras
-
-⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
-
-
-<table align="center">
-
-<tr>
-
-<td align="center">
-
-# Gestión Centralizada
-
-</td>
-
-</tr>
-
-</table>
-
-Reúne toda tu colección de videojuegos en una única biblioteca, independientemente de la plataforma de origen.
-
-Mantén tu colección organizada y accesible desde una sola aplicación.
-
-⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
-
-
-<table align="center">
-
-<tr>
-
-<td align="center">
-
-# Privacidad Total y Absoluta
-
-</td>
-
-</tr>
-
-</table>
-
-Game Vault ha sido diseñado priorizando la privacidad del usuario.
-
-Tus datos:
-
-* Permanecen en tu dispositivo.
-* No se envían a servidores externos.
-* No se comparten con terceros.
-* No requieren conexión permanente a Internet.
-* No necesitan una cuenta de usuario.
-
-⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
-
-
-<table align="center">
-
-<tr>
-
-<td align="center">
-
-# Almacenamiento Local y Auto Gestionado
-
-</td>
-
-</tr>
-
-</table>
-Toda la información se almacena en una base de datos SQLite local.
-
-Los datos de tu colección, valoraciones, reseñas y precios permanecen guardados directamente en tu equipo.
-
-Game Vault no utiliza almacenamiento en la nube ni servicios externos para funcionar.
-
-⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
-
-
-<table align="center">
-
-<tr>
-
-<td align="center">
-
-# Funcionamientos
-
-</td>
-
-</tr>
-
-</table>
-La aplicación permite añadir manualmente cada videojuego a la biblioteca.
-
-Cada registro puede incluir:
-
-* Nombre del juego.
-* Plataforma.
-* Precio oficial.
-* Precio pagado.
-* Valoración personal.
-* Opinión o reseña.
-
-Este sistema ofrece un control total sobre la organización y personalización de la colección.
+This allows you to know how much you've actually invested in your collection and its total value.
 
 ⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
@@ -273,7 +117,7 @@ Este sistema ofrece un control total sobre la organización y personalización d
 
 <td align="center">
 
-# ¿Por qué Game Vault?
+# Rating System
 
 </td>
 
@@ -281,20 +125,16 @@ Este sistema ofrece un control total sobre la organización y personalización d
 
 </table>
 
-Actualmente la mayoría de jugadores tienen sus juegos repartidos entre múltiples plataformas y lanzadores.
+Rate each game using a star-based rating system.
 
-Game Vault busca solucionar este problema permitiendo:
+Quickly identify:
 
-* Centralizar toda la colección.
-* Controlar el gasto real en videojuegos.
-* Registrar opiniones personales.
-* Conocer el valor total de la biblioteca.
-* Mantener la propiedad completa de los datos.
-
-Todo ello desde una única aplicación ligera y privada.
+* Favorite games
+* Best experiences
+* Recommended titles
+* Games that still need improvement or completion
 
 ⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
-
 
 <table align="center">
 
@@ -302,7 +142,158 @@ Todo ello desde una única aplicación ligera y privada.
 
 <td align="center">
 
-# Tecnologias Usadas
+# Reviews & Opinions
+
+</td>
+
+</tr>
+
+</table>
+
+Add your own opinions for every game.
+
+You can save:
+
+* General impressions
+* Gameplay feedback
+* Story evaluation
+* Personal notes
+* Future recommendations
+
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
+
+<table align="center">
+
+<tr>
+
+<td align="center">
+
+# Centralized Management
+
+</td>
+
+</tr>
+
+</table>
+
+Bring your entire video game collection together in a single library, regardless of the original platform.
+
+Keep your collection organized and accessible from one application.
+
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
+
+<table align="center">
+
+<tr>
+
+<td align="center">
+
+# Complete Privacy
+
+</td>
+
+</tr>
+
+</table>
+
+Game Vault has been designed with user privacy as a priority.
+
+Your data:
+
+* Stays on your device.
+* Is not sent to external servers.
+* Is not shared with third parties.
+* Does not require a permanent Internet connection.
+* Does not require a user account.
+
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
+
+<table align="center">
+
+<tr>
+
+<td align="center">
+
+# Local & Self-Managed Storage
+
+</td>
+
+</tr>
+
+</table>
+
+All information is stored in a local SQLite database.
+
+Your collection data, ratings, reviews, and pricing information remain stored directly on your computer.
+
+Game Vault does not use cloud storage or external services.
+
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
+
+<table align="center">
+
+<tr>
+
+<td align="center">
+
+# How It Works
+
+</td>
+
+</tr>
+
+</table>
+
+The application allows you to manually add each video game to your library.
+
+Each entry may include:
+
+* Game title
+* Platform
+* Official price
+* Purchase price
+* Personal rating
+* Personal review
+
+This system provides complete control over the organization and customization of your collection.
+
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
+
+<table align="center">
+
+<tr>
+
+<td align="center">
+
+# Why Game Vault?
+
+</td>
+
+</tr>
+
+</table>
+
+Most gamers currently have their games spread across multiple platforms and launchers.
+
+Game Vault aims to solve this problem by allowing you to:
+
+* Centralize your entire collection.
+* Track your actual gaming expenses.
+* Record personal reviews.
+* Know the total value of your library.
+* Maintain full ownership of your data.
+
+All from a lightweight and private application.
+
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
+
+<table align="center">
+
+<tr>
+
+<td align="center">
+
+# Technologies Used
 
 </td>
 
@@ -317,17 +308,16 @@ Frontend
 * Tailwind CSS
 * Vite
 
-Backend de Escritorio
+Desktop Backend
 
 * Rust
 * Tauri
 
-Base de Datos
+Database
 
 * SQLite
 
 ⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
-
 
 <table align="center">
 
@@ -335,7 +325,7 @@ Base de Datos
 
 <td align="center">
 
-# Capturas de Pantalla
+# Screenshots
 
 </td>
 
@@ -343,17 +333,9 @@ Base de Datos
 
 </table>
 
-<img width="799" height="597" alt="Captura de pantalla 2026-07-03 a las 17 15 16" src="https://github.com/user-attachments/assets/bc281644-38c0-4bb5-99ee-bc0137a5f114" />
-<img width="970" height="837" alt="Captura de pantalla 2026-07-03 a las 17 15 36" src="https://github.com/user-attachments/assets/8d7df821-5e65-414d-84ff-e8249fc6525c" />
-<img width="967" height="833" alt="Captura de pantalla 2026-07-03 a las 17 16 13" src="https://github.com/user-attachments/assets/9e500322-5b55-4a60-8bf8-278033339220" />
-<img width="965" height="836" alt="Captura de pantalla 2026-07-03 a las 17 16 04" src="https://github.com/user-attachments/assets/2a71e34a-8104-421c-8e2e-931a9907c45c" />
-
-<img width="970" height="840" alt="Captura de pantalla 2026-07-03 a las 17 16 27" src="https://github.com/user-attachments/assets/5d8488ef-4523-40fb-9137-a4a7b7d13e0f" />
-
-
+(Keep your images unchanged)
 
 ⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
-
 
 <table align="center">
 
@@ -369,21 +351,20 @@ Base de Datos
 
 </table>
 
-Funcionalidades previstas para futuras versiones:
+Planned features for future versions:
 
-* Estadísticas avanzadas de la colección.
-* Análisis de gastos y valor de biblioteca.
-* Sistema avanzado de filtros.
-* Etiquetas y categorías personalizadas.
-* Gestión de backlog.
-* Seguimiento de juegos completados.
-* Exportación e importación de datos.
-* Herramientas de copia de seguridad.
-* Mejoras visuales y de rendimiento.
-* Compatibilidad con nuevas plataformas.
+* Advanced collection statistics.
+* Expense and library value analysis.
+* Advanced filtering system.
+* Custom tags and categories.
+* Backlog management.
+* Completed games tracking.
+* Data import and export.
+* Backup tools.
+* Visual and performance improvements.
+* Support for additional platforms.
 
 ⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
-
 
 <table align="center">
 
@@ -391,7 +372,7 @@ Funcionalidades previstas para futuras versiones:
 
 <td align="center">
 
-# Estado del proyecto
+# Project Status
 
 </td>
 
@@ -399,12 +380,11 @@ Funcionalidades previstas para futuras versiones:
 
 </table>
 
-Game Vault se encuentra actualmente en desarrollo activo.
+Game Vault is currently under active development.
 
-Las características y el diseño pueden evolucionar a medida que el proyecto continúe creciendo.
+Features and design may evolve as the project continues to grow.
 
 ⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
-
 
 <table align="center">
 
@@ -412,7 +392,7 @@ Las características y el diseño pueden evolucionar a medida que el proyecto co
 
 <td align="center">
 
-# Contribuciones
+# Contributions
 
 </td>
 
@@ -420,12 +400,11 @@ Las características y el diseño pueden evolucionar a medida que el proyecto co
 
 </table>
 
-Las sugerencias, ideas y comentarios son siempre bienvenidos.
+Suggestions, ideas, and feedback are always welcome.
 
-Toda propuesta que ayude a mejorar la experiencia de gestión de colecciones será considerada para futuras versiones.
+Any proposal that helps improve the collection management experience will be considered for future releases.
 
 ⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
-
 
 <table align="center">
 
@@ -433,7 +412,7 @@ Toda propuesta que ayude a mejorar la experiencia de gestión de colecciones ser
 
 <td align="center">
 
-# Licencia
+# License
 
 </td>
 
@@ -441,10 +420,9 @@ Toda propuesta que ayude a mejorar la experiencia de gestión de colecciones ser
 
 </table>
 
-La licencia de uso gratuita, prohibida venta, distribucion o modificacion sin consentimiento explicito por escrito.
+Free-to-use license. Sale, redistribution, or modification is prohibited without explicit written permission.
 
 ⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
-
 
 <table align="center">
 
@@ -452,7 +430,7 @@ La licencia de uso gratuita, prohibida venta, distribucion o modificacion sin co
 
 <td align="center">
 
-# Autor
+# Author
 
 </td>
 
@@ -460,6 +438,6 @@ La licencia de uso gratuita, prohibida venta, distribucion o modificacion sin co
 
 </table>
 
-Desarrollado por EveeX_.
+Developed by EveeX_.
 
-Game Vault nace con el objetivo de ofrecer una forma sencilla, privada y eficiente de gestionar colecciones personales de videojuegos sin depender de servicios externos ni plataformas de terceros.
+Game Vault was created with the goal of providing a simple, private, and efficient way to manage personal video game collections without relying on external services or third-party platforms.
