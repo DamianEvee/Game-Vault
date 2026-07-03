@@ -1,6 +1,6 @@
 # Licencia de Uso de Game Vault
 
-Copyright (c) 2026 Damian
+Copyright (c) 2026 EveeX_
 
 Todos los derechos reservados.
 
@@ -23,7 +23,7 @@ Queda expresamente prohibido, sin autorización previa, expresa y por escrito de
 
 ## Propiedad Intelectual
 
-Todo el código fuente, diseño, estructura, documentación, recursos gráficos y cualquier otro componente relacionado con Game Vault son propiedad exclusiva de Damian y están protegidos por las leyes nacionales e internacionales de propiedad intelectual y derechos de autor.
+Todo el código fuente, diseño, estructura, documentación, recursos gráficos y cualquier otro componente relacionado con Game Vault son propiedad exclusiva de EveeX_ y están protegidos por las leyes nacionales e internacionales de propiedad intelectual y derechos de autor.
 
 La presente licencia no concede ningún derecho de propiedad sobre el software.
 
@@ -47,4 +47,4 @@ Para solicitudes de autorización o consultas relacionadas con esta licencia, co
 
 ---
 
-**Game Vault © 2026 Damian. Todos los derechos reservados.**
+**Game Vault © 2026 EveeX_. Todos los derechos reservados.**
