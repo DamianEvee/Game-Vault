@@ -1,0 +1,367 @@
+/* Estilos globales y reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}
+
+body {
+  background-color: #0d0e12;
+  color: #ffffff;
+  height: 100vh;
+  overflow: hidden;
+}
+
+/* Contenedor principal de la App */
+.app-container {
+  display: flex;
+  width: 100%;
+  height: 100vh;
+}
+
+/* Barra Lateral (Sidebar) */
+.sidebar {
+  width: 240px;
+  background-color: #16171d;
+  padding: 24px;
+  display: flex;
+  flex-direction: column;
+  border-right: 1px solid #242631;
+}
+
+.sidebar h2 {
+  font-size: 20px;
+  margin-bottom: 32px;
+  letter-spacing: 0.5px;
+}
+
+.sidebar nav {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.sidebar nav a {
+  color: #8a8d98;
+  text-decoration: none;
+  padding: 10px 14px;
+  border-radius: 6px;
+  font-size: 14px;
+  transition: all 0.2s ease;
+}
+
+.sidebar nav a:hover,
+.sidebar nav a.active {
+  background-color: #242631;
+  color: #ffffff;
+}
+
+/* Panel de Contenido Principal */
+.main-content {
+  flex: 1;
+  padding: 40px;
+  overflow-y: auto;
+}
+
+.main-content h1 {
+  font-size: 28px;
+  margin-bottom: 24px;
+}
+
+/* Tarjetas de Plataformas */
+.platform-card {
+  background-color: #16171d;
+  border: 1px solid #242631;
+  border-radius: 12px;
+  padding: 24px;
+  margin-bottom: 20px;
+}
+
+.platform-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 16px;
+}
+
+.platform-header h3 {
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.platform-header p {
+  font-size: 12px;
+  color: #656874;
+  margin-top: 2px;
+}
+
+.game-count {
+  font-size: 14px;
+  color: #00bfff;
+  /* Color dinámico más adelante */
+  font-weight: bold;
+}
+
+/* La cuadrícula mágica estilo GitHub */
+.contributions-grid {
+  display: grid;
+  grid-template-rows: repeat(4, 12px);
+  /* 4 filas fijas */
+  grid-auto-flow: column;
+  /* Avanza en columnas hacia la derecha */
+  gap: 5px;
+  overflow-x: auto;
+  padding-bottom: 8px;
+}
+
+/* Cada cuadradito individual */
+.grid-square {
+  width: 12px;
+  height: 12px;
+  border-radius: 2px;
+}
+
+/* Clase utilitaria para alternar pantallas */
+.hidden {
+  display: none !important;
+}
+
+/* Contenedor de la biblioteca: dividido en Formulario y Listado */
+.library-layout {
+  display: flex;
+  gap: 32px;
+  margin-top: 24px;
+}
+
+/* Formulario */
+.game-form {
+  width: 340px;
+  background-color: #16171d;
+  border: 1px solid #242631;
+  border-radius: 12px;
+  padding: 24px;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.form-group {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.form-group label {
+  font-size: 13px;
+  color: #8a8d98;
+}
+
+.form-group input,
+.form-group select,
+.form-group textarea {
+  background-color: #22232b;
+  border: 1px solid #242631;
+  border-radius: 6px;
+  padding: 10px;
+  color: #ffffff;
+  font-size: 14px;
+  outline: none;
+}
+
+.form-group input:focus,
+.form-group select:focus,
+.form-group textarea:focus {
+  border-color: #00bfff;
+}
+
+/* Estrellas interactivas */
+.rating-stars {
+  display: flex;
+  gap: 6px;
+  font-size: 24px;
+  cursor: pointer;
+  color: #444;
+}
+
+.rating-stars span.active {
+  color: #ffcc00;
+}
+
+.btn-submit {
+  background-color: #00bfff;
+  color: #0d0e12;
+  border: none;
+  border-radius: 6px;
+  padding: 12px;
+  font-weight: bold;
+  font-size: 14px;
+  cursor: pointer;
+  transition: background 0.2s;
+  margin-top: 8px;
+}
+
+.btn-submit:hover {
+  background-color: #0099cc;
+}
+
+/* Galería de Juegos Añadidos */
+.games-grid {
+  flex: 1;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  gap: 20px;
+}
+
+.game-card {
+  background-color: #16171d;
+  border: 1px solid #242631;
+  border-radius: 12px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+
+.game-card-cover {
+  width: 100%;
+  height: 240px;
+  background-color: #22232b;
+  object-fit: cover;
+}
+
+.game-card-info {
+  padding: 14px;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.game-card-title {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.game-card-platform {
+  font-size: 12px;
+  padding: 2px 6px;
+  border-radius: 4px;
+  width: fit-content;
+  font-weight: 500;
+}
+
+.game-card-prices {
+  font-size: 13px;
+  color: #8a8d98;
+}
+
+.game-card-stars {
+  color: #ffcc00;
+  font-size: 14px;
+}
+
+/* Asegura el posicionamiento e interactividad de la cruz de eliminación */
+.game-card {
+  position: relative !important;
+  /* Base para que 'absolute' del botón funcione */
+}
+
+.delete-btn {
+  position: absolute !important;
+  top: 8px !important;
+  right: 8px !important;
+  z-index: 999 !important;
+  /* Fuerza a que se sitúe POR ENCIMA de la carátula */
+  background-color: #e60012 !important;
+  /* Color corporativo/rojo */
+  color: #ffffff !important;
+  border: none !important;
+  border-radius: 4px !important;
+  padding: 4px 8px !important;
+  font-size: 12px !important;
+  font-weight: bold !important;
+  cursor: pointer !important;
+  pointer-events: auto !important;
+  /* Garantiza que el ratón pueda hacerle click */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5) !important;
+  transition: background-color 0.2s ease;
+}
+
+.delete-btn:hover {
+  background-color: #ff3344 !important;
+  /* Cambio visual al pasar el cursor */
+}
+
+/* --- Modal de Extinción --- */
+.modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background: rgba(0, 0, 0, 0.75);
+  /* Fondo oscuro semitransparente */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 9999;
+  opacity: 1;
+  transition: opacity 0.2s ease-in-out;
+}
+
+.modal-overlay.hidden {
+  display: none;
+  opacity: 0;
+}
+
+.modal-content {
+  background-color: #1e1e24;
+  padding: 24px;
+  border-radius: 12px;
+  border: 1px solid #333;
+  width: 400px;
+  max-width: 90%;
+  text-align: center;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+  color: #fff;
+}
+
+.modal-content h3 {
+  margin-top: 0;
+  color: #ff4757;
+}
+
+.modal-actions {
+  display: flex;
+  justify-content: center;
+  gap: 16px;
+  margin-top: 24px;
+}
+
+.btn-cancel {
+  background-color: #333;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.btn-cancel:hover {
+  background-color: #4a4d59;
+}
+
+.btn-delete {
+  background-color: #ff4757;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.btn-delete:hover {
+  background-color: #ff6b81;
+}

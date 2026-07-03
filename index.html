@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8" />
+  <link rel="stylesheet" href="/src/styles.css" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>GameVault</title>
+</head>
+
+<body>
+
+  <div class="app-container">
+    <aside class="sidebar">
+      <h2>GameVault</h2>
+      <nav>
+        <a href="#" id="menu-dashboard" class="active">Dashboard</a>
+        <a href="#" id="menu-biblioteca">Biblioteca</a>
+        <a href="#">Estadísticas</a>
+        <a href="#">Ajustes</a>
+      </nav>
+    </aside>
+
+    <div id="view-dashboard" class="view-section">
+      <h2>Game Vault Personal</h2>
+      <div id="dashboard-platforms-container" class="dashboard-grid-container">
+      </div>
+    </div>
+
+    <main id="view-biblioteca" class="main-content hidden">
+      <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 24px;">
+        <div>
+          <h1>Mi Biblioteca</h1>
+          <p style="color: #8a8d98; margin-top: 4px;">Gestiona tu colección manual de videojuegos, reseñas y gastos.</p>
+        </div>
+        <button id="btn-open-add-game" class="btn-submit" style="margin-top: 0; padding: 10px 20px;">+ Añadir
+          Juego</button>
+      </div>
+
+      <div class="library-layout">
+        <form id="add-game-form" class="game-form hidden">
+          <h3 style="margin-bottom: 8px; color: #fff;">Nuevo Videojuego</h3>
+
+          <div class="form-group">
+            <label for="game-title">Título del Videojuego</label>
+            <input type="text" id="game-title" placeholder="Ej: Cyberpunk 2077" required />
+          </div>
+
+          <div class="form-group">
+            <label for="game-platform">Plataforma</label>
+            <select id="game-platform" required>
+              <option value="Steam">Steam</option>
+              <option value="Epic Games">Epic Games</option>
+              <option value="PlayStation">PlayStation</option>
+              <option value="Nintendo">Nintendo</option>
+              <option value="XBOX">XBOX</option>
+            </select>
+          </div>
+
+          <div class="form-group">
+            <label>Carátula (Imagen Local)</label>
+            <input type="file" id="game-cover" accept="image/*" />
+          </div>
+
+          <div class="form-group">
+            <label for="game-price-original">Precio Original (€)</label>
+            <input type="number" id="game-price-original" step="0.01" placeholder="59.99" required />
+          </div>
+
+          <div class="form-group">
+            <label for="game-price-paid">Cuánto pagaste (€)</label>
+            <input type="number" id="game-price-paid" step="0.01" placeholder="14.99" required />
+          </div>
+
+          <div class="form-group">
+            <label>Tu Calificación</label>
+            <div id="stars-selector" class="rating-stars" data-rating="0">
+              <span data-value="1">★</span>
+              <span data-value="2">★</span>
+              <span data-value="3">★</span>
+              <span data-value="4">★</span>
+              <span data-value="5">★</span>
+            </div>
+          </div>
+
+          <div class="form-group">
+            <label for="game-review">Tu Opinión / Reseña</label>
+            <textarea id="game-review" rows="3" placeholder="¿Qué te pareció el juego?..."></textarea>
+          </div>
+
+          <div style="display: flex; gap: 10px;">
+            <button type="submit" class="btn-submit" style="flex: 1;">Guardar</button>
+            <button type="button" id="btn-cancel-game" class="btn-submit"
+              style="flex: 1; background-color: #242631; color: #fff;">Cancelar</button>
+          </div>
+        </form>
+
+        <div id="library-games-grid" class="games-grid">
+        </div>
+      </div>
+    </main>
+  </div>
+
+  <script type="module" src="/src/main.ts"></script>
+  <div id="delete-modal" class="modal-overlay hidden">
+    <div class="modal-content">
+      <h3> Confirmar Extinción</h3>
+      <p id="delete-modal-text"></p>
+      <div class="modal-actions">
+        <button id="btn-cancel-delete" class="btn-cancel">Cancelar</button>
+        <button id="btn-confirm-delete" class="btn-delete">Sí, ¡extínguelo!</button>
+      </div>
+    </div>
+  </div>
+</body>
+
+</html>
